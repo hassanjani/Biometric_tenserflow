@@ -1,0 +1,110 @@
+<resources>
+    <string name="capture_button_alt">Capture</string>
+
+    <string name="app_name">Biometric</string>
+    <string name="enroll">Enroll</string>
+    <string name="identify">Verify</string>
+    <string name="clear_db">Clear DB</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_enroll">EnrollActivity</string>
+    <string name="title_activity_preferences">Preferences</string>
+
+
+    <string name="picture">Picture</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="intro_message">This is a test</string>
+
+    <string name="msg_initializing">Initializing…</string>
+    <string name="msg_licenses_partially_obtained">Not all Licenses were obtained</string>
+    <string name="msg_initializing_client">Initializing client…</string>
+    <string name="license_obtained">License obtained..</string>
+
+    <string name="msg_cancel">Cancel</string>
+    <string name="msg_obtaining_licenses">Obtaining licenses...</string>
+    <string name="initializing_biometric_client">Initializing biometric client...</string>
+    <string name="msg_licenses_obtained">Licenses were obtained</string>
+    <string name="Initializing">Initializing</string>
+    <string name="bad_lighting">Bad lighting!</string>
+    <string name="extract_failed">Failed to extract! Please try again.</string>
+
+    <string name="please_keep_still">Please keep still</string>
+
+    <string name="turn_to_target">Turn to target</string>
+    <string name="msg_blink">Blink</string>
+    <string name="msg_score">Score</string>
+    <string name="msg_side_to_side">Turn face from side to side</string>
+    <string name="msg_down">Turn down</string>
+    <string name="msg_up">Turn up</string>
+    <string name="msg_center">Turn to the center</string>
+    <string name="msg_left">Turn left</string>
+    <string name="msg_right">Turn right</string>
+
+    <string name="user_name">User name</string>
+    <string name="enter_user_name">Enter user name to enroll</string>
+    <string name="enter_user_name_first">Enter user name first</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="duplicate_user">User has been already existed for the given user id</string>
+    <string name="unidentified_error_during_enroll">Unidentified error has occured when enrolling user. Please try again..</string>
+    <string name="unidentified_error_during_extraction">Unidentified error has occured when extracting. Please try again..</string>
+    <string name="unidentified_error">Unidentified error has occured. Please try again..</string>
+    <string name="person_identified">Person {0} identified.</string>
+    <string name="no_match_found">No match found</string>
+    <string name="identification_error">Identification error issue has occured. Please try again..</string>
+    <string name="activation">Activation</string>
+    <string name="prepare_directories">Preparing directories…</string>
+    <string name="prepare_data_files">Preparing data files…</string>
+    <string name="prepare_directories_failed">FaceSample app directory creation has failed</string>
+    <string name="prepare_data_files_failed">Data files are not moved successfully.</string>
+    <string name="no_files_selected">No files selected!</string>
+    <string name="invalid_serial_number">Invalid serial number</string>
+    <string name="can_t_deactivate_internet_license" translatable="false">Can\'t deactivate internet license!</string>
+    <string name="license_deactivated" translatable="false">License successfully deactivated!</string>
+    <string name="save_directory" translatable="false">Save directory</string>
+    <string name="deactivation_id_copied" translatable="false">Deactivation ID copied to the file.</string>
+    <string name="write_to_file_failed" translatable="false">Failed to write to the file!</string>
+    <string name="failed_deactivate_licenes" translatable="false">Failed to deactivate license!</string>
+    <string name="invalid_license_file">Invalid license file!</string>
+    <string name="license_file_not_exist">License file doesn\'t exist!</string>
+    <string name="license_activated" translatable="false">License activated</string>
+    <string name="restart_application" translatable="false">Please start the application after clear it from the memory!</string>
+    <string name="failed_to_activate_license" translatable="false">Failed to activate licenses!</string>
+    <string name="license_status">License status: %1$s</string>
+    <string name="license_not_obtained">License not obtained!</string>
+    <string name="trial">Trial</string>
+    <string name="non_trial">Non trial</string>
+    <string name="serial_number">Serial number</string>
+    <string name="license_file">License file</string>
+    <string name="deactivate">Deactivate</string>
+    <string name="activate">Activate</string>
+    <string name="are_you_sure_you_want_to_exit">Are you sure you want to exit?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="database_cleared">Database has been deleted successfully</string>
+
+    <string name="person_name">Person</string>
+    <string name="matching_results">Matching results</string>
+    <string name="enroll_face">Enroll face</string>
+    <string name="identify_face">Identify face</string>
+    <string name="extracting">Extracting..</string>
+    <string name="extraction_failed">Face extraction has failed with biometric status code: </string>
+    <string name="extraction_error">Error on extraction. Error:</string>
+    <string name="extraction_task_error">Error on extraction task. Error:</string>
+
+    <string name="preferences">Preferences</string>
+    <string name="pref_header_general">General</string>
+    <string name="image_format_title">Image format</string>
+    <string name="select_camera_resolution">Select camera resolution</string>
+    <string name="mask_detection_score">Mask detection score: %1$d</string>
+    <string name="no_mask_detected">You are not wearing a face mask</string>
+    <string name="face_quality">Face quality</string>
+
+    <string name="mask_detection">Face mask detection</string>
+    <string name="mask_detection_desc">Enable face mask detection</string>
+
+
+</resources>

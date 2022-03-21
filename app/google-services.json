@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "505682817839",
+    "project_id": "tanzeel-7bcea",
+    "storage_bucket": "tanzeel-7bcea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505682817839:android:2b65bf416664c52ce027da",
+        "android_client_info": {
+          "package_name": "com.example.facerecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505682817839-o2231l3p5ip71gjv478pkt4qk91hj81n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAG_iyQlZICckZLdX-M9N7huAKKt4SALw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505682817839-o2231l3p5ip71gjv478pkt4qk91hj81n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505682817839:android:58f2c856a86bc1a8e027da",
+        "android_client_info": {
+          "package_name": "com.hassan.tanzeelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505682817839-o2231l3p5ip71gjv478pkt4qk91hj81n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAG_iyQlZICckZLdX-M9N7huAKKt4SALw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505682817839-o2231l3p5ip71gjv478pkt4qk91hj81n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
